@@ -11,6 +11,7 @@ This project covers the core concepts of semantic search and Retrieval-Augmented
 - RAG pipeline
 - SQLite vector storage
 - PostgreSQL + pgvector
+- ONNX embedder
 
 ## Tech Stack
 
@@ -20,6 +21,7 @@ This project covers the core concepts of semantic search and Retrieval-Augmented
 - SQLite
 - PostgreSQL
 - pgvector
+- ONNX
 
 ## Status
 

@@ -25,4 +25,4 @@ This project covers the core concepts of semantic search and Retrieval-Augmented
 
 ✅ Module 2 completed
 
-⏳ ONNX embedder lesson still in progress.
+⏳ ONNX embedder homework can be found here: https://github.com/dexidkcph/llm-zoomcamp-onnx

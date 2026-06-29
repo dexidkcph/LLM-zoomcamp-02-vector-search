@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+models/
+*.db-shm
+*.db-wal
+.ipynb_checkpoints/
+.env
